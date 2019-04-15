@@ -13,6 +13,7 @@
 		53AA909A22630CF000D9EF3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53AA909922630CF000D9EF3A /* Assets.xcassets */; };
 		53AA909D22630CF000D9EF3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53AA909B22630CF000D9EF3A /* LaunchScreen.storyboard */; };
 		53AA90A52263179400D9EF3A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53AA90A42263179400D9EF3A /* LoginViewController.swift */; };
+		59FFEDC4226477A000F5ADA1 /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59FFEDC3226477A000F5ADA1 /* SharpImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		53AA909C22630CF000D9EF3A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		53AA909E22630CF000D9EF3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53AA90A42263179400D9EF3A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		59FFEDC3226477A000F5ADA1 /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				53AA909222630CEE00D9EF3A /* AppDelegate.swift */,
 				53AA909422630CEE00D9EF3A /* ViewController.swift */,
 				53AA909622630CEE00D9EF3A /* Main.storyboard */,
+				59FFEDC3226477A000F5ADA1 /* SharpImageView.swift */,
 				53AA90A42263179400D9EF3A /* LoginViewController.swift */,
 				53AA909922630CF000D9EF3A /* Assets.xcassets */,
 				53AA909B22630CF000D9EF3A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				53AA90A52263179400D9EF3A /* LoginViewController.swift in Sources */,
 				53AA909522630CEE00D9EF3A /* ViewController.swift in Sources */,
 				53AA909322630CEE00D9EF3A /* AppDelegate.swift in Sources */,
+				59FFEDC4226477A000F5ADA1 /* SharpImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
